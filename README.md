@@ -25,6 +25,13 @@ Launch Notebook:
 jupyter notebook your_notebook.ipynb
 ```
 
+## 📂 Repository Structure
+
+This repository contains the following files:
+- `dataset/`: Directory containing the [AMEO Dataset](https://github.com/Mahitej28/Analysis-of-AMEO-Dataset/tree/main/Dataset).
+- `src/`: Directory containing <b>Jupyter File</b> and the <b>Analysis Report</b>.
+- `README.md`: This file, providing an overview of the project and instructions.
+
 
 ## ✍ Author
  [Mahima Churi](https://github.com/Mahitej28)
