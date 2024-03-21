@@ -1,5 +1,5 @@
 # Analysis-of-AMEO-Dataset
-## Objective
+## 📋 Objective
 
 The objective of this Analysis is to gain insights and understanding from the provided dataset, particularly focusing on the relationship between various features and the target variable, which is Salary.
 
